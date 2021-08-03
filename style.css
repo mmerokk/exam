@@ -1,0 +1,54 @@
+* {
+  margin    : 0;
+  padding   : 0;
+  box-sizing: border-box;
+}
+
+.jumbotron {
+  padding      : 15px;
+  margin-bottom: 0;
+  background   : rgb(11,83,69);
+  /* background   : linear-gradient(180deg, rgba(255,0,0,0.5) 0%, #9b59b6 35%); */
+}
+
+.title {
+  color      : pink;
+  font-weight: bold;
+}
+
+.col-sm-3 .ceit-logo {
+  width : 90px;
+  height: 90px;
+}
+
+.social-links {}
+
+.body {
+  text-align: center;
+}
+
+.groove {
+  border-style: groove;
+}
+
+.body {
+  box-sizing  : border-box;
+  margin      : 5px;
+  border-color: red;
+  margin      : 0;
+}
+
+.col1 {
+  background-color: lightgreen;
+  color           : blue;
+}
+
+.col3 {
+  background-color: lightgreen;
+  color           : blue;
+}
+
+.footer {
+  background-color: green;
+  text-align      : center;
+}
